@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Dotum Bold';
+  src: url('./Kopub/KoPubWorld Dotum Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Dotum Medium';
+  src: url('./Kopub/KoPubWorld Dotum Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Dotum Light';
+  src: url('./Kopub/KoPubWorld Dotum Light.ttf');
+}
+
+@font-face {
+  font-family: 'Batang Bold';
+  src: url('./Kopub/KoPubWorld Batang Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Batang Medium';
+  src: url('./Kopub/KoPubWorld Batang Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Batang Light';
+  src: url('./Kopub/KoPubWorld Batang Light.ttf');
+}

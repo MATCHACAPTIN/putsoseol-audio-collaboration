@@ -1,0 +1,9 @@
+export { default as TestPage } from './TestPage';
+export { default as FirstLetter } from './FirstLetter';
+export { default as SecondLetter } from './SecondLetter';
+export { default as ThirdLetter } from './ThirdLetter';
+export { default as FourthLetter } from './FourthLetter';
+export { default as FifthLetter } from './FifthLetter';
+export { default as SixthLetter } from './SixthLetter';
+export { default as MainPage } from './MainPage';
+export { default as FirstText } from './FirstText';
